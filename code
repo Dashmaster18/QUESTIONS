@@ -1,0 +1,73 @@
+# Install required library
+!pip install wikipedia
+
+# Imports
+import datetime
+import wikipedia
+
+# 🧠 Jarvis Function (Core Logic)
+def jarvis(command):
+    # Normalize input
+    command = command.lower().strip()
+
+    # Greeting
+    if "hello" in command or "hi" in command:
+        return "Hello! I am Jarvis. How can I help you?"
+
+    # Personal interaction
+    elif "how are you" in command:
+        return "I am functioning perfectly! What about you?"
+
+    # Time
+    elif "time" in command:
+        current_time = datetime.datetime.now().strftime('%H:%M:%S')
+        return f"Current time is {current_time}"
+
+    # Date
+    elif "date" in command:
+        today = datetime.date.today()
+        return f"Today's date is {today}"
+
+    # Wikipedia search
+    elif "who is" in command or "what is" in command:
+        topic = command.replace("who is", "").replace("what is", "").replace("a", "").replace("an", "").strip()
+        try:
+            return wikipedia.summary(topic, 2)
+        except:
+            return "Sorry, I couldn't find information."
+
+    # Open websites
+    elif "open youtube" in command:
+        return "Open this link: https://www.youtube.com"
+
+    elif "open google" in command:
+        return "Open this link: https://www.google.com"
+
+    # Fun feature
+    elif "joke" in command:
+        return "Why do programmers prefer dark mode? Because light attracts bugs!"
+
+    # Exit response
+    elif "bye" in command:
+        return "Goodbye! Have a nice day!"
+
+    # Default case
+    else:
+        return "Sorry, I didn't understand that."
+
+# 🔁 Main Execution Loop
+print("Jarvis is running... Type 'exit' to stop.\n")
+
+while True:
+    command = input("You: ")
+
+    # Exit condition
+    if command.lower().strip() == "exit":
+        print("Jarvis: Stopped.")
+        break
+
+    # Process command
+    response = jarvis(command)
+
+    # Output response
+    print("Jarvis:", response)
