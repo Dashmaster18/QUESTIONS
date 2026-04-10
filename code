@@ -33,8 +33,8 @@ def jarvis(command):
         topic = command.replace("who is", "").replace("what is", "").replace("a", "").replace("an", "").strip()
         try:
             return wikipedia.summary(topic, 2)
-        except:
-            return "Sorry, I couldn't find information."
+        except wikipedia.exceptions.DisambiguationError:
+            return "Sorry, the topic is ambiguous. Please specify further."
 
     # Open websites
     elif "open youtube" in command:
