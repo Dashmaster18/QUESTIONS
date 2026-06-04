@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dashmaster18/JARVIS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Dashmaster18/JARVIS/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dashmaster18/JARVIS/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Dashmaster18/JARVIS/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Dashmaster18/JARVIS/tree/master/0704-binary-search) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Dashmaster18/JARVIS/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Dashmaster18/JARVIS/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Dashmaster18/JARVIS/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Dashmaster18/JARVIS/tree/master/0441-arranging-coins) |
 | [0598-range-addition-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0598-range-addition-ii) |
 ## Bit Manipulation
