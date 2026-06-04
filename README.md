@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Dashmaster18/JARVIS/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dashmaster18/JARVIS/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Dashmaster18/JARVIS/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dashmaster18/JARVIS/tree/master/0561-array-partition) |
+| [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Dashmaster18/JARVIS/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dashmaster18/JARVIS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
 ## Design
 |  |
 | ------- |
