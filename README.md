@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Dashmaster18/JARVIS/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Dashmaster18/JARVIS/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Dashmaster18/JARVIS/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Dashmaster18/JARVIS/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Dashmaster18/JARVIS/tree/master/0575-distribute-candies) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dashmaster18/JARVIS/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Dashmaster18/JARVIS/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Binary Search
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dashmaster18/JARVIS/tree/master/0014-longest-common-prefix) |
+| [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Trie
 |  |
