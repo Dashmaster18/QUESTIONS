@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dashmaster18/JARVIS/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Dashmaster18/JARVIS/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Dashmaster18/JARVIS/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Dashmaster18/JARVIS/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/Dashmaster18/JARVIS/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Dashmaster18/JARVIS/tree/master/0575-distribute-candies) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Dashmaster18/JARVIS/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0566-reshape-the-matrix) |
 ## Depth-First Search
 |  |
