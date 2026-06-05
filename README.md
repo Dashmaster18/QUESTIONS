@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dashmaster18/JARVIS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3454-separate-squares-ii](https://github.com/Dashmaster18/JARVIS/tree/master/3454-separate-squares-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dashmaster18/JARVIS/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dashmaster18/JARVIS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dashmaster18/JARVIS/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Hash Table
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dashmaster18/JARVIS/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3454-separate-squares-ii](https://github.com/Dashmaster18/JARVIS/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Dashmaster18/JARVIS/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dashmaster18/JARVIS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Interactive
 |  |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sweep Line
 |  |
 | ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3454-separate-squares-ii](https://github.com/Dashmaster18/JARVIS/tree/master/3454-separate-squares-ii) |
 ## String Matching
 |  |
