@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Dashmaster18/JARVIS/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dashmaster18/JARVIS/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dashmaster18/JARVIS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Dashmaster18/JARVIS/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/Dashmaster18/JARVIS/tree/master/0753-cracking-the-safe) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Dashmaster18/JARVIS/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Dashmaster18/JARVIS/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Eulerian Circuit
@@ -385,11 +387,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Dashmaster18/JARVIS/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Dashmaster18/JARVIS/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Dashmaster18/JARVIS/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Dashmaster18/JARVIS/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Segment Tree
@@ -413,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Dashmaster18/JARVIS/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Dashmaster18/JARVIS/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
