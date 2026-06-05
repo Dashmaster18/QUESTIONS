@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dashmaster18/JARVIS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Dashmaster18/JARVIS/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/Dashmaster18/JARVIS/tree/master/0986-interval-list-intersections) |
 | [1093-statistics-from-a-large-sample](https://github.com/Dashmaster18/JARVIS/tree/master/1093-statistics-from-a-large-sample) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Dashmaster18/JARVIS/tree/master/0561-array-partition) |
 | [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Dashmaster18/JARVIS/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Dashmaster18/JARVIS/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0519-random-flip-matrix) |
 | [0598-range-addition-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0598-range-addition-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Dashmaster18/JARVIS/tree/master/0973-k-closest-points-to-origin) |
 | [1093-statistics-from-a-large-sample](https://github.com/Dashmaster18/JARVIS/tree/master/1093-statistics-from-a-large-sample) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Dashmaster18/JARVIS/tree/master/1227-airplane-seat-assignment-probability) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Dashmaster18/JARVIS/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Dashmaster18/JARVIS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dashmaster18/JARVIS/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Dashmaster18/JARVIS/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dashmaster18/JARVIS/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dashmaster18/JARVIS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Dashmaster18/JARVIS/tree/master/0332-reconstruct-itinerary) |
 | [0506-relative-ranks](https://github.com/Dashmaster18/JARVIS/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Dashmaster18/JARVIS/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dashmaster18/JARVIS/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Dashmaster18/JARVIS/tree/master/0478-generate-random-point-in-a-circle) |
+| [0973-k-closest-points-to-origin](https://github.com/Dashmaster18/JARVIS/tree/master/0973-k-closest-points-to-origin) |
 ## Ordered Set
 |  |
 | ------- |
@@ -377,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Dashmaster18/JARVIS/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dashmaster18/JARVIS/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dashmaster18/JARVIS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dashmaster18/JARVIS/tree/master/3759-count-elements-with-at-least-k-greater-values) |
