@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dashmaster18/JARVIS/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dashmaster18/JARVIS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
+| [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Dashmaster18/JARVIS/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dashmaster18/JARVIS/tree/master/0561-array-partition) |
 | [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
+| [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dashmaster18/JARVIS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Dashmaster18/JARVIS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dashmaster18/JARVIS/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Dashmaster18/JARVIS/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Dashmaster18/JARVIS/tree/master/0332-reconstruct-itinerary) |
 | [0506-relative-ranks](https://github.com/Dashmaster18/JARVIS/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Interactive
 |  |
@@ -273,10 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Dashmaster18/JARVIS/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Dashmaster18/JARVIS/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -314,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Dashmaster18/JARVIS/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
