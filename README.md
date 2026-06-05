@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/Dashmaster18/JARVIS/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dashmaster18/JARVIS/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0850-rectangle-area-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0850-rectangle-area-ii) |
 | [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Dashmaster18/JARVIS/tree/master/0973-k-closest-points-to-origin) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Dashmaster18/JARVIS/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0850-rectangle-area-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0850-rectangle-area-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -427,10 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0850-rectangle-area-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0850-rectangle-area-ii) |
 | [3454-separate-squares-ii](https://github.com/Dashmaster18/JARVIS/tree/master/3454-separate-squares-ii) |
 ## Sweep Line
 |  |
 | ------- |
+| [0850-rectangle-area-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0850-rectangle-area-ii) |
 | [0986-interval-list-intersections](https://github.com/Dashmaster18/JARVIS/tree/master/0986-interval-list-intersections) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3454-separate-squares-ii](https://github.com/Dashmaster18/JARVIS/tree/master/3454-separate-squares-ii) |
