@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Dashmaster18/JARVIS/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dashmaster18/JARVIS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
+| [1044-longest-duplicate-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1044-longest-duplicate-substring) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0219-contains-duplicate-ii) |
+| [1044-longest-duplicate-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1044-longest-duplicate-substring) |
 | [1763-longest-nice-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0753-cracking-the-safe](https://github.com/Dashmaster18/JARVIS/tree/master/0753-cracking-the-safe) |
+| [1044-longest-duplicate-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1044-longest-duplicate-substring) |
 | [1763-longest-nice-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dashmaster18/JARVIS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dashmaster18/JARVIS/tree/master/2223-sum-of-scores-of-built-strings) |
@@ -378,16 +381,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1044-longest-duplicate-substring) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dashmaster18/JARVIS/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Array
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1044-longest-duplicate-substring) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dashmaster18/JARVIS/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1044-longest-duplicate-substring) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dashmaster18/JARVIS/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
