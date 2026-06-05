@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Dashmaster18/JARVIS/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dashmaster18/JARVIS/tree/master/0561-array-partition) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dashmaster18/JARVIS/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
 ## Design
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Dashmaster18/JARVIS/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/Dashmaster18/JARVIS/tree/master/0753-cracking-the-safe) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -348,4 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
