@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dashmaster18/JARVIS/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
+| [0519-random-flip-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0519-random-flip-matrix) |
 | [0575-distribute-candies](https://github.com/Dashmaster18/JARVIS/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0470-implement-rand10-using-rand7](https://github.com/Dashmaster18/JARVIS/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Dashmaster18/JARVIS/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Dashmaster18/JARVIS/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0519-random-flip-matrix) |
 | [0598-range-addition-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0598-range-addition-ii) |
 ## Bit Manipulation
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Dashmaster18/JARVIS/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Dashmaster18/JARVIS/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Dashmaster18/JARVIS/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0519-random-flip-matrix) |
 ## Randomized
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0470-implement-rand10-using-rand7](https://github.com/Dashmaster18/JARVIS/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Dashmaster18/JARVIS/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Dashmaster18/JARVIS/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0519-random-flip-matrix) |
 ## Rejection Sampling
 |  |
 | ------- |
