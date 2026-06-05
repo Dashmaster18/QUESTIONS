@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dashmaster18/JARVIS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0912-sort-an-array) |
+| [0986-interval-list-intersections](https://github.com/Dashmaster18/JARVIS/tree/master/0986-interval-list-intersections) |
 | [1093-statistics-from-a-large-sample](https://github.com/Dashmaster18/JARVIS/tree/master/1093-statistics-from-a-large-sample) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Dashmaster18/JARVIS/tree/master/0455-assign-cookies) |
+| [0986-interval-list-intersections](https://github.com/Dashmaster18/JARVIS/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sweep Line
 |  |
 | ------- |
+| [0986-interval-list-intersections](https://github.com/Dashmaster18/JARVIS/tree/master/0986-interval-list-intersections) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3454-separate-squares-ii](https://github.com/Dashmaster18/JARVIS/tree/master/3454-separate-squares-ii) |
 ## String Matching
