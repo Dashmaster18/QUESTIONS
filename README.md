@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dashmaster18/JARVIS/tree/master/1584-min-cost-to-connect-all-points) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dashmaster18/JARVIS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3454-separate-squares-ii](https://github.com/Dashmaster18/JARVIS/tree/master/3454-separate-squares-ii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Dashmaster18/JARVIS/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/Dashmaster18/JARVIS/tree/master/0753-cracking-the-safe) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dashmaster18/JARVIS/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Eulerian Circuit
 |  |
@@ -371,10 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dashmaster18/JARVIS/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Dashmaster18/JARVIS/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dashmaster18/JARVIS/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Segment Tree
 |  |
