@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Dashmaster18/JARVIS/tree/master/0332-reconstruct-itinerary) |
 | [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0753-cracking-the-safe](https://github.com/Dashmaster18/JARVIS/tree/master/0753-cracking-the-safe) |
 | [1763-longest-nice-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1763-longest-nice-substring) |
 ## Trie
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Dashmaster18/JARVIS/tree/master/0332-reconstruct-itinerary) |
 | [0463-island-perimeter](https://github.com/Dashmaster18/JARVIS/tree/master/0463-island-perimeter) |
+| [0753-cracking-the-safe](https://github.com/Dashmaster18/JARVIS/tree/master/0753-cracking-the-safe) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -248,8 +250,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Dashmaster18/JARVIS/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/Dashmaster18/JARVIS/tree/master/0753-cracking-the-safe) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Dashmaster18/JARVIS/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/Dashmaster18/JARVIS/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
