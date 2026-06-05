@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dashmaster18/JARVIS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0391-perfect-rectangle](https://github.com/Dashmaster18/JARVIS/tree/master/0391-perfect-rectangle) |
 | [0414-third-maximum-number](https://github.com/Dashmaster18/JARVIS/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Dashmaster18/JARVIS/tree/master/0455-assign-cookies) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dashmaster18/JARVIS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0391-perfect-rectangle](https://github.com/Dashmaster18/JARVIS/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/Dashmaster18/JARVIS/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dashmaster18/JARVIS/tree/master/0496-next-greater-element-i) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dashmaster18/JARVIS/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Dashmaster18/JARVIS/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/Dashmaster18/JARVIS/tree/master/0382-linked-list-random-node) |
+| [0391-perfect-rectangle](https://github.com/Dashmaster18/JARVIS/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/Dashmaster18/JARVIS/tree/master/0398-random-pick-index) |
 | [0441-arranging-coins](https://github.com/Dashmaster18/JARVIS/tree/master/0441-arranging-coins) |
 | [0470-implement-rand10-using-rand7](https://github.com/Dashmaster18/JARVIS/tree/master/0470-implement-rand10-using-rand7) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/Dashmaster18/JARVIS/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Dashmaster18/JARVIS/tree/master/0478-generate-random-point-in-a-circle) |
 | [0973-k-closest-points-to-origin](https://github.com/Dashmaster18/JARVIS/tree/master/0973-k-closest-points-to-origin) |
 ## Ordered Set
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sweep Line
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/Dashmaster18/JARVIS/tree/master/0391-perfect-rectangle) |
 | [0850-rectangle-area-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0850-rectangle-area-ii) |
 | [0986-interval-list-intersections](https://github.com/Dashmaster18/JARVIS/tree/master/0986-interval-list-intersections) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
