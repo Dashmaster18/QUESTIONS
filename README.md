@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Dashmaster18/JARVIS/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Dashmaster18/JARVIS/tree/master/0398-random-pick-index) |
 | [0441-arranging-coins](https://github.com/Dashmaster18/JARVIS/tree/master/0441-arranging-coins) |
+| [0470-implement-rand10-using-rand7](https://github.com/Dashmaster18/JARVIS/tree/master/0470-implement-rand10-using-rand7) |
 | [0598-range-addition-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0598-range-addition-ii) |
 ## Bit Manipulation
 |  |
@@ -283,4 +284,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Dashmaster18/JARVIS/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Dashmaster18/JARVIS/tree/master/0398-random-pick-index) |
+| [0470-implement-rand10-using-rand7](https://github.com/Dashmaster18/JARVIS/tree/master/0470-implement-rand10-using-rand7) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Dashmaster18/JARVIS/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Dashmaster18/JARVIS/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
