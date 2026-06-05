@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-random-flip-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0519-random-flip-matrix) |
 | [0598-range-addition-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0598-range-addition-ii) |
 | [0808-soup-servings](https://github.com/Dashmaster18/JARVIS/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/Dashmaster18/JARVIS/tree/master/0837-new-21-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Dashmaster18/JARVIS/tree/master/0973-k-closest-points-to-origin) |
 | [1093-statistics-from-a-large-sample](https://github.com/Dashmaster18/JARVIS/tree/master/1093-statistics-from-a-large-sample) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Dashmaster18/JARVIS/tree/master/1227-airplane-seat-assignment-probability) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0219-contains-duplicate-ii) |
+| [0837-new-21-game](https://github.com/Dashmaster18/JARVIS/tree/master/0837-new-21-game) |
 | [1044-longest-duplicate-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1044-longest-duplicate-substring) |
 | [1763-longest-nice-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Dashmaster18/JARVIS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dashmaster18/JARVIS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0808-soup-servings](https://github.com/Dashmaster18/JARVIS/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/Dashmaster18/JARVIS/tree/master/0837-new-21-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Dashmaster18/JARVIS/tree/master/1227-airplane-seat-assignment-probability) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Dashmaster18/JARVIS/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Tree
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Dashmaster18/JARVIS/tree/master/0470-implement-rand10-using-rand7) |
 | [0808-soup-servings](https://github.com/Dashmaster18/JARVIS/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/Dashmaster18/JARVIS/tree/master/0837-new-21-game) |
 | [1093-statistics-from-a-large-sample](https://github.com/Dashmaster18/JARVIS/tree/master/1093-statistics-from-a-large-sample) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Dashmaster18/JARVIS/tree/master/1227-airplane-seat-assignment-probability) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/Dashmaster18/JARVIS/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
