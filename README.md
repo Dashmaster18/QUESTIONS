@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dashmaster18/JARVIS/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Dashmaster18/JARVIS/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1763-longest-nice-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1763-longest-nice-substring) |
+| [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dashmaster18/JARVIS/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
 ## Design
 |  |
 | ------- |
@@ -333,4 +336,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dashmaster18/JARVIS/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
