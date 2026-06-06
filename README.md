@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Dashmaster18/JARVIS/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dashmaster18/JARVIS/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Dashmaster18/JARVIS/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Dashmaster18/JARVIS/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dashmaster18/JARVIS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Dashmaster18/JARVIS/tree/master/0118-pascals-triangle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dashmaster18/JARVIS/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Dashmaster18/JARVIS/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Dashmaster18/JARVIS/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Dashmaster18/JARVIS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dashmaster18/JARVIS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0219-contains-duplicate-ii) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Dashmaster18/JARVIS/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Dashmaster18/JARVIS/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0566-reshape-the-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
