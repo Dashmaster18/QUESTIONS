@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dashmaster18/JARVIS/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dashmaster18/JARVIS/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dashmaster18/JARVIS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dashmaster18/JARVIS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/Dashmaster18/JARVIS/tree/master/3454-separate-squares-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dashmaster18/JARVIS/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3934-smallest-unique-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/3934-smallest-unique-subarray) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/Dashmaster18/JARVIS/tree/master/0837-new-21-game) |
 | [1044-longest-duplicate-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1044-longest-duplicate-substring) |
 | [1763-longest-nice-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1763-longest-nice-substring) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dashmaster18/JARVIS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -336,10 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Dashmaster18/JARVIS/tree/master/0496-next-greater-element-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dashmaster18/JARVIS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Dashmaster18/JARVIS/tree/master/0496-next-greater-element-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dashmaster18/JARVIS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0850-rectangle-area-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0850-rectangle-area-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dashmaster18/JARVIS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/Dashmaster18/JARVIS/tree/master/3454-separate-squares-ii) |
 ## Sweep Line
 |  |
@@ -513,4 +518,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Dashmaster18/JARVIS/tree/master/1227-airplane-seat-assignment-probability) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dashmaster18/JARVIS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dashmaster18/JARVIS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
