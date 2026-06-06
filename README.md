@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dashmaster18/JARVIS/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Dashmaster18/JARVIS/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Dashmaster18/JARVIS/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Dashmaster18/JARVIS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dashmaster18/JARVIS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dashmaster18/JARVIS/tree/master/0073-set-matrix-zeroes) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dashmaster18/JARVIS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dashmaster18/JARVIS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dashmaster18/JARVIS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Dashmaster18/JARVIS/tree/master/0268-missing-number) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dashmaster18/JARVIS/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Dashmaster18/JARVIS/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Dashmaster18/JARVIS/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0566-reshape-the-matrix) |
