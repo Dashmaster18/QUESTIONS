@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0391-perfect-rectangle](https://github.com/Dashmaster18/JARVIS/tree/master/0391-perfect-rectangle) |
 | [0414-third-maximum-number](https://github.com/Dashmaster18/JARVIS/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Dashmaster18/JARVIS/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Dashmaster18/JARVIS/tree/master/0463-island-perimeter) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dashmaster18/JARVIS/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dashmaster18/JARVIS/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Dashmaster18/JARVIS/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Dashmaster18/JARVIS/tree/master/0506-relative-ranks) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0391-perfect-rectangle](https://github.com/Dashmaster18/JARVIS/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/Dashmaster18/JARVIS/tree/master/0398-random-pick-index) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dashmaster18/JARVIS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Dashmaster18/JARVIS/tree/master/0496-next-greater-element-i) |
