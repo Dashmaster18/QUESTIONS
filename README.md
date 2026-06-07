@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dashmaster18/JARVIS/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dashmaster18/JARVIS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Dashmaster18/JARVIS/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Dashmaster18/JARVIS/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Dashmaster18/JARVIS/tree/master/0169-majority-element) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dashmaster18/JARVIS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0219-contains-duplicate-ii) |
 | [0837-new-21-game](https://github.com/Dashmaster18/JARVIS/tree/master/0837-new-21-game) |
 | [1044-longest-duplicate-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1044-longest-duplicate-substring) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dashmaster18/JARVIS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Dashmaster18/JARVIS/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Dashmaster18/JARVIS/tree/master/0125-valid-palindrome) |
 | [0332-reconstruct-itinerary](https://github.com/Dashmaster18/JARVIS/tree/master/0332-reconstruct-itinerary) |
