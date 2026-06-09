@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Dashmaster18/JARVIS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/Dashmaster18/JARVIS/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/Dashmaster18/JARVIS/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dashmaster18/JARVIS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dashmaster18/JARVIS/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Dashmaster18/JARVIS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dashmaster18/JARVIS/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Dashmaster18/JARVIS/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dashmaster18/JARVIS/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Dashmaster18/JARVIS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dashmaster18/JARVIS/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0387-first-unique-character-in-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Dashmaster18/JARVIS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
