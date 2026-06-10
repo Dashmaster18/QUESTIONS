@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Dashmaster18/JARVIS/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Dashmaster18/JARVIS/tree/master/0455-assign-cookies) |
 | [0986-interval-list-intersections](https://github.com/Dashmaster18/JARVIS/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dashmaster18/JARVIS/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Dashmaster18/JARVIS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dashmaster18/JARVIS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Dashmaster18/JARVIS/tree/master/0392-is-subsequence) |
 | [0808-soup-servings](https://github.com/Dashmaster18/JARVIS/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/Dashmaster18/JARVIS/tree/master/0837-new-21-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Dashmaster18/JARVIS/tree/master/1227-airplane-seat-assignment-probability) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Dashmaster18/JARVIS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Dashmaster18/JARVIS/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Dashmaster18/JARVIS/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Dashmaster18/JARVIS/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
