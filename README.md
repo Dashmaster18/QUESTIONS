@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Dashmaster18/JARVIS/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/Dashmaster18/JARVIS/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/Dashmaster18/JARVIS/tree/master/0398-random-pick-index) |
+| [0415-add-strings](https://github.com/Dashmaster18/JARVIS/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Dashmaster18/JARVIS/tree/master/0441-arranging-coins) |
 | [0470-implement-rand10-using-rand7](https://github.com/Dashmaster18/JARVIS/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Dashmaster18/JARVIS/tree/master/0478-generate-random-point-in-a-circle) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Dashmaster18/JARVIS/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Dashmaster18/JARVIS/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Dashmaster18/JARVIS/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Dashmaster18/JARVIS/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/Dashmaster18/JARVIS/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Dashmaster18/JARVIS/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0566-reshape-the-matrix) |
 ## Depth-First Search
