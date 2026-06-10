@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dashmaster18/JARVIS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dashmaster18/JARVIS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dashmaster18/JARVIS/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Dashmaster18/JARVIS/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Dashmaster18/JARVIS/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Dashmaster18/JARVIS/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/Dashmaster18/JARVIS/tree/master/0382-linked-list-random-node) |
