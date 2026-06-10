@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Dashmaster18/JARVIS/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dashmaster18/JARVIS/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/Dashmaster18/JARVIS/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Dashmaster18/JARVIS/tree/master/0692-top-k-frequent-words) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Dashmaster18/JARVIS/tree/master/0459-repeated-substring-pattern) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Dashmaster18/JARVIS/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Backtracking
 |  |
