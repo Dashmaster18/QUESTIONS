@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dashmaster18/JARVIS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Dashmaster18/JARVIS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Dashmaster18/JARVIS/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Dashmaster18/JARVIS/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dashmaster18/JARVIS/tree/master/0451-sort-characters-by-frequency) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dashmaster18/JARVIS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Dashmaster18/JARVIS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Dashmaster18/JARVIS/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/Dashmaster18/JARVIS/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/Dashmaster18/JARVIS/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dashmaster18/JARVIS/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Dashmaster18/JARVIS/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Dashmaster18/JARVIS/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Dashmaster18/JARVIS/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Dashmaster18/JARVIS/tree/master/0389-find-the-difference) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dashmaster18/JARVIS/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/Dashmaster18/JARVIS/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Dashmaster18/JARVIS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dashmaster18/JARVIS/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Dashmaster18/JARVIS/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Dashmaster18/JARVIS/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Dashmaster18/JARVIS/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dashmaster18/JARVIS/tree/master/0599-minimum-index-sum-of-two-lists) |
