@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dashmaster18/JARVIS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dashmaster18/JARVIS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Dashmaster18/QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Dashmaster18/JARVIS/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Dashmaster18/JARVIS/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Dashmaster18/JARVIS/tree/master/0169-majority-element) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Dashmaster18/QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Dashmaster18/JARVIS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dashmaster18/JARVIS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dashmaster18/JARVIS/tree/master/0069-sqrtx) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dashmaster18/JARVIS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Dashmaster18/JARVIS/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Dashmaster18/QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Dashmaster18/JARVIS/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Dashmaster18/JARVIS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Dashmaster18/JARVIS/tree/master/0242-valid-anagram) |
