@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dashmaster18/JARVIS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dashmaster18/JARVIS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dashmaster18/JARVIS/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Dashmaster18/QUESTIONS/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Dashmaster18/JARVIS/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Dashmaster18/JARVIS/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Dashmaster18/JARVIS/tree/master/0367-valid-perfect-square) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dashmaster18/JARVIS/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/Dashmaster18/QUESTIONS/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Dashmaster18/JARVIS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dashmaster18/JARVIS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Dashmaster18/JARVIS/tree/master/0392-is-subsequence) |
@@ -290,15 +292,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Dashmaster18/QUESTIONS/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dashmaster18/JARVIS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Dashmaster18/JARVIS/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Dashmaster18/QUESTIONS/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dashmaster18/JARVIS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Dashmaster18/QUESTIONS/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dashmaster18/JARVIS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Dashmaster18/JARVIS/tree/master/0222-count-complete-tree-nodes) |
 ## String
