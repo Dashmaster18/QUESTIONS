@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dashmaster18/QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Dashmaster18/JARVIS/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Dashmaster18/JARVIS/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Dashmaster18/QUESTIONS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dashmaster18/JARVIS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dashmaster18/JARVIS/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Dashmaster18/JARVIS/tree/master/0056-merge-intervals) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dashmaster18/QUESTIONS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dashmaster18/JARVIS/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Dashmaster18/JARVIS/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Dashmaster18/JARVIS/tree/master/0164-maximum-gap) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dashmaster18/QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Dashmaster18/QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Dashmaster18/JARVIS/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Dashmaster18/QUESTIONS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dashmaster18/JARVIS/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Dashmaster18/JARVIS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dashmaster18/JARVIS/tree/master/0217-contains-duplicate) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dashmaster18/JARVIS/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Dashmaster18/QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Dashmaster18/JARVIS/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Dashmaster18/QUESTIONS/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Dashmaster18/JARVIS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Dashmaster18/JARVIS/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/Dashmaster18/JARVIS/tree/master/0332-reconstruct-itinerary) |
